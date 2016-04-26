@@ -9,7 +9,7 @@ cd brookshear
 
 gcc brookshear-simulator.c -o brookshear-simulator
 
-Type the name of the program followed by the filename
+Using the prgram is simple, type the name of the program followed by the filename containing the brookshear instructions
 
 ./brookshear-simulator examples/brookshear5
 
